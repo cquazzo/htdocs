@@ -1,0 +1,21 @@
+## SUBLIME ##
+*.sublime-workspace
+
+## VIM ##
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+## MAC OS X ##
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+## Cloud9 ##
+.c9revisions/
